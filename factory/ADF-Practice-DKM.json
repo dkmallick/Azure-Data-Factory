@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Practice-DKM",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f74800d3-a924-4167-b074-918e96fee906",
+		"tenantId": "a7cb0dea-e787-492e-86b0-cc1ca84a6ef1"
+	}
+}
