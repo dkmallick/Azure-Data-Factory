@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADF-Practice-DKM"
+		},
+		"ADLS_LS_accountKey": {
+			"value": ""
+		},
+		"Azure_SqlDB_LS_password": {
+			"value": ""
+		},
+		"ADLS_LS_properties_typeProperties_url": {
+			"value": "https://adls5synapse.dfs.core.windows.net/"
+		},
+		"Azure_SqlDB_LS_properties_typeProperties_server": {
+			"value": "sqlserverforsqldb.database.windows.net"
+		},
+		"Azure_SqlDB_LS_properties_typeProperties_database": {
+			"value": "sql_db"
+		},
+		"Azure_SqlDB_LS_properties_typeProperties_userName": {
+			"value": "dkm"
+		}
+	}
+}
